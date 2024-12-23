@@ -63,3 +63,17 @@ L’évaluation du modèle a été effectuée à l’aide de métriques telles q
 1. Clone ce dépôt :
    ```bash
    git clone https://github.com/sihamaitbaziz/IRIS-KNN.git
+2.Navigue dans le dossier du projet :
+```bash
+
+```
+3.Installe les dépendances :
+```bash
+pip install -r requirements.txt
+```
+4.Exécute le script :
+```bash
+python iris.py
+```
+
+
